@@ -35,6 +35,7 @@
 
 ### 3D
 - 3ds Max
+- Maya
 - Blender
 - ZBrush
 
