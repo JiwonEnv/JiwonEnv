@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 Notion
+## 📝 Portfolio Notion
 
 🔗 https://leejiwon.notion.site/3b110d86fdd580a982d1da7cafaaef46
 
@@ -15,11 +15,11 @@
 
 🔗https://jiwonenv.github.io/portfolio/
 
-## 📝 작업 기록
+## 📝 작업 기록 BLOG
 
 🔗 https://blog.naver.com/ljw4816
 
-## 🎬 YouTube
+## 🎬 작업 기록 YouTube
 
 🔗 https://www.youtube.com/@GameEnv_Jiwon
 
