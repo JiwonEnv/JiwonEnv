@@ -7,6 +7,10 @@
 
 ---
 
+## 📝 Notion
+
+🔗 https://leejiwon.notion.site/3b110d86fdd580a982d1da7cafaaef46?v=3b110d86fdd58021b322000c36af272a&source=copy_link
+
 ## 📝 작업 기록
 
 🔗 https://blog.naver.com/ljw4816
