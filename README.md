@@ -31,7 +31,6 @@
 
 🔗 https://jes79.github.io/project-grimoire/#world
 
-- **Portfolio Website** *(준비 중)*
 
 ---
 
