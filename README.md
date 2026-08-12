@@ -11,6 +11,10 @@
 
 🔗 https://leejiwon.notion.site/3b110d86fdd580a982d1da7cafaaef46
 
+## 🌐 Portfolio Website
+
+🔗https://jiwonenv.github.io/portfolio/
+
 ## 📝 작업 기록
 
 🔗 https://blog.naver.com/ljw4816
@@ -18,10 +22,6 @@
 ## 🎬 YouTube
 
 🔗 https://www.youtube.com/@GameEnv_Jiwon
-
-## 🌐 Portfolio Website
-
-🔗https://jiwonenv.github.io/portfolio/
 
 ---
 
