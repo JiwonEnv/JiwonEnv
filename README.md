@@ -28,6 +28,9 @@
 ## 🎮 대표 프로젝트
 
 - **Grimoire : Once Upon a Crime** *(진행 중)*
+
+🔗 https://jes79.github.io/project-grimoire/#world
+
 - **Portfolio Website** *(준비 중)*
 
 ---
